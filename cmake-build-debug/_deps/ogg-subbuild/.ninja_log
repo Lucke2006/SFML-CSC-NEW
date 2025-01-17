@@ -1,0 +1,37 @@
+# ninja log v5
+1	74	7584940502747703	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	7b7d81dbb743b518
+75	2488	7584940526870720	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	204e9a10d02df81
+1	74	7584940502747703	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	7b7d81dbb743b518
+75	2488	7584940526870720	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	204e9a10d02df81
+91	143	7586640207905681	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	7fef4b058867faa0
+0	91	0	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	d23934d1cd258bd0
+0	91	0	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	d23934d1cd258bd0
+91	143	7586640207905681	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	7fef4b058867faa0
+283	340	7586640209868948	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	e338e6577416c9ae
+143	181	7586640208280615	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	d457cb1b110ced6e
+143	181	7586640208280615	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	d457cb1b110ced6e
+181	213	7586640208605150	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	f990d7c05247995d
+181	213	7586640208605150	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	f990d7c05247995d
+214	246	7586640208937676	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	e1389ad530529395
+214	246	7586640208937676	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	e1389ad530529395
+246	283	7586640209295967	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	9a3c600950349f4f
+246	283	7586640209295967	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	9a3c600950349f4f
+283	340	7586640209868948	CMakeFiles/ogg-populate-complete	e338e6577416c9ae
+283	340	7586640209868948	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	e338e6577416c9ae
+283	340	7586640209868948	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete	e338e6577416c9ae
+1	132	0	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	d23934d1cd258bd0
+1	132	0	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	d23934d1cd258bd0
+133	203	7586640278222868	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	7fef4b058867faa0
+133	203	7586640278222868	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	7fef4b058867faa0
+203	268	7586640278891241	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	d457cb1b110ced6e
+203	268	7586640278891241	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	d457cb1b110ced6e
+268	312	7586640279348910	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	f990d7c05247995d
+268	312	7586640279348910	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	f990d7c05247995d
+312	356	7586640279780330	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	e1389ad530529395
+312	356	7586640279780330	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	e1389ad530529395
+356	395	7586640280181281	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	9a3c600950349f4f
+356	395	7586640280181281	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	9a3c600950349f4f
+395	457	7586640280794425	CMakeFiles/ogg-populate-complete	e338e6577416c9ae
+395	457	7586640280794425	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	e338e6577416c9ae
+395	457	7586640280794425	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete	e338e6577416c9ae
+395	457	7586640280794425	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	e338e6577416c9ae

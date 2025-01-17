@@ -1,0 +1,37 @@
+# ninja log v5
+293	329	7586640220130239	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	e1f73b448bfeffe1
+1	70	7584940627694441	flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	3b76d7b3d74b51f0
+1	70	7584940627694441	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	3b76d7b3d74b51f0
+71	5182	7584940678818061	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	7223d3e0a9128a45
+0	101	0	flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	b180b5289e8e85e6
+71	5182	7584940678818061	flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	7223d3e0a9128a45
+0	101	0	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	b180b5289e8e85e6
+101	175	7586640218584231	flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	b95e3af490f0aaa1
+101	175	7586640218584231	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	b95e3af490f0aaa1
+175	214	7586640218962901	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	2716c41f25008757
+175	214	7586640218962901	flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	2716c41f25008757
+214	255	7586640219390253	flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	44bb07d878926b09
+214	255	7586640219390253	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	44bb07d878926b09
+256	293	7586640219760406	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	f91f608a4c5d3e14
+256	293	7586640219760406	flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	f91f608a4c5d3e14
+293	329	7586640220130239	flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	e1f73b448bfeffe1
+329	381	7586640220642601	CMakeFiles/flac-populate-complete	e09482bb68159544
+329	381	7586640220642601	flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	e09482bb68159544
+329	381	7586640220642601	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/CMakeFiles/flac-populate-complete	e09482bb68159544
+329	381	7586640220642601	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	e09482bb68159544
+1	111	0	flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	b180b5289e8e85e6
+1	111	0	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	b180b5289e8e85e6
+112	160	7586640285516191	flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	b95e3af490f0aaa1
+112	160	7586640285516191	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	b95e3af490f0aaa1
+160	199	7586640285908391	flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	2716c41f25008757
+160	199	7586640285908391	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	2716c41f25008757
+199	234	7586640286255276	flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	44bb07d878926b09
+199	234	7586640286255276	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	44bb07d878926b09
+234	273	7586640286652786	flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	f91f608a4c5d3e14
+234	273	7586640286652786	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	f91f608a4c5d3e14
+273	316	7586640287079438	flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	e1f73b448bfeffe1
+273	316	7586640287079438	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	e1f73b448bfeffe1
+317	370	7586640287614130	CMakeFiles/flac-populate-complete	e09482bb68159544
+317	370	7586640287614130	flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	e09482bb68159544
+317	370	7586640287614130	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/CMakeFiles/flac-populate-complete	e09482bb68159544
+317	370	7586640287614130	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	e09482bb68159544

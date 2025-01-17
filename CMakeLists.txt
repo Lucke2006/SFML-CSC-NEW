@@ -1,7 +1,15 @@
-cmake_minimum_required(VERSION 3.28)
+cmake_minimum_required(VERSION 3.27)
 project(CMakeSFMLProject LANGUAGES CXX)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
+
+##############################
+
+set(ASSETS_DIR "${CMAKE_SOURCE_DIR}/assets")
+set(ASSETS_BUILD_DIR "${CMAKE_BINARY_DIR}/bin/")
+file(COPY ${ASSETS_DIR} DESTINATION ${ASSETS_BUILD_DIR})
+
+###############################
 
 include(FetchContent)
 FetchContent_Declare(SFML

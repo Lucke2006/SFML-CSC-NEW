@@ -1,0 +1,37 @@
+# ninja log v5
+1	57	7584940127690795	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	7066463482ff30b2
+1	57	7584940127690795	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	7066463482ff30b2
+118	152	7586640183639549	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b96254c0207962a5
+57	12599	7584940253103952	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	f18921664d1553e4
+152	188	7586640183995843	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	8ac8160ce42bf4f1
+57	12599	7584940253103952	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	f18921664d1553e4
+1	118	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	23a7b8244202dab
+1	118	0	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	23a7b8244202dab
+118	152	7586640183639549	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b96254c0207962a5
+152	188	7586640183995843	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	8ac8160ce42bf4f1
+188	222	7586640184344769	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	12fb3fc51352ae9d
+296	341	7586640185530334	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	f63b45223956e8e1
+188	222	7586640184344769	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	12fb3fc51352ae9d
+223	260	7586640184719464	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	34cf790f859ec96f
+223	260	7586640184719464	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	34cf790f859ec96f
+261	296	7586640185072663	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	f99deaabda30feff
+261	296	7586640185072663	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	f99deaabda30feff
+296	341	7586640185530334	CMakeFiles/sfml-populate-complete	f63b45223956e8e1
+296	341	7586640185530334	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	f63b45223956e8e1
+296	341	7586640185530334	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	f63b45223956e8e1
+1	117	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	23a7b8244202dab
+1	117	0	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	23a7b8244202dab
+117	158	7586640263694514	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b96254c0207962a5
+117	158	7586640263694514	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b96254c0207962a5
+158	196	7586640264082551	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	8ac8160ce42bf4f1
+158	196	7586640264082551	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	8ac8160ce42bf4f1
+196	236	7586640264473842	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	12fb3fc51352ae9d
+196	236	7586640264473842	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	12fb3fc51352ae9d
+236	278	7586640264898568	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	34cf790f859ec96f
+236	278	7586640264898568	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	34cf790f859ec96f
+279	317	7586640265289179	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	f99deaabda30feff
+279	317	7586640265289179	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	f99deaabda30feff
+318	369	7586640265801868	CMakeFiles/sfml-populate-complete	f63b45223956e8e1
+318	369	7586640265801868	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	f63b45223956e8e1
+318	369	7586640265801868	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	f63b45223956e8e1
+318	369	7586640265801868	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	f63b45223956e8e1

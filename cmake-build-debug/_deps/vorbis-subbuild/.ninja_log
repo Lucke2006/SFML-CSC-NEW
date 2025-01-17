@@ -1,0 +1,37 @@
+# ninja log v5
+254	292	7586640231845962	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	a2ca724f30651d83
+1	87	7584940792617068	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	4b5e16ddec54c4c0
+1	87	7584940792617068	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	4b5e16ddec54c4c0
+88	4640	7584940838146966	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	62ad53430fcb7a9
+88	4640	7584940838146966	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	62ad53430fcb7a9
+0	95	0	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	2f3764dbc25ab4b2
+215	254	7586640231478197	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	4d69417a8efa5fd
+0	95	0	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	2f3764dbc25ab4b2
+95	177	7586640230693971	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	8ff59e4024975c6
+177	215	7586640231089178	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	83cf044cb4defc32
+95	177	7586640230693971	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	8ff59e4024975c6
+177	215	7586640231089178	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	83cf044cb4defc32
+215	254	7586640231478197	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	4d69417a8efa5fd
+254	292	7586640231845962	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	a2ca724f30651d83
+292	329	7586640232226412	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	a3fb9007970efca0
+292	329	7586640232226412	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	a3fb9007970efca0
+330	380	7586640232732175	CMakeFiles/vorbis-populate-complete	261c05f293de1c8f
+330	380	7586640232732175	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	261c05f293de1c8f
+330	380	7586640232732175	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	261c05f293de1c8f
+330	380	7586640232732175	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	261c05f293de1c8f
+1	114	0	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	2f3764dbc25ab4b2
+1	114	0	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	2f3764dbc25ab4b2
+115	161	7586640292976473	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	8ff59e4024975c6
+115	161	7586640292976473	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	8ff59e4024975c6
+161	206	7586640293427361	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	83cf044cb4defc32
+161	206	7586640293427361	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	83cf044cb4defc32
+206	249	7586640293864360	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	4d69417a8efa5fd
+206	249	7586640293864360	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	4d69417a8efa5fd
+249	291	7586640294276290	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	a2ca724f30651d83
+249	291	7586640294276290	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	a2ca724f30651d83
+291	339	7586640294751151	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	a3fb9007970efca0
+291	339	7586640294751151	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	a3fb9007970efca0
+339	396	7586640295331709	CMakeFiles/vorbis-populate-complete	261c05f293de1c8f
+339	396	7586640295331709	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	261c05f293de1c8f
+339	396	7586640295331709	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	261c05f293de1c8f
+339	396	7586640295331709	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	261c05f293de1c8f

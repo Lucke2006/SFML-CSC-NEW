@@ -1,0 +1,37 @@
+# ninja log v5
+1	94	7584940359825191	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	4d2ef4d92af0d806
+190	222	7586640198059511	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	d0bf7d93e795485
+1	106	0	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	b1ff51ad6b3ab0d1
+106	155	7586640197386643	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	da85ebb1869e08d8
+1	94	7584940359825191	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	4d2ef4d92af0d806
+97	12913	7584940488047895	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	bf936927555b43d5
+1	106	0	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	b1ff51ad6b3ab0d1
+97	12913	7584940488047895	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	bf936927555b43d5
+106	155	7586640197386643	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	da85ebb1869e08d8
+156	190	7586640197729298	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	a058eff1a4ab9ab8
+156	190	7586640197729298	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	a058eff1a4ab9ab8
+190	222	7586640198059511	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	d0bf7d93e795485
+222	256	7586640198396117	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	b65677e367430ced
+222	256	7586640198396117	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	b65677e367430ced
+256	290	7586640198733818	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	1f296485261cd6fe
+256	290	7586640198733818	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	1f296485261cd6fe
+290	339	7586640199228659	CMakeFiles/freetype-populate-complete	6b46918aec86bff7
+290	339	7586640199228659	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	6b46918aec86bff7
+290	339	7586640199228659	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	6b46918aec86bff7
+290	339	7586640199228659	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	6b46918aec86bff7
+1	108	0	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	b1ff51ad6b3ab0d1
+1	108	0	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	b1ff51ad6b3ab0d1
+108	148	7586640270550956	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	da85ebb1869e08d8
+108	148	7586640270550956	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	da85ebb1869e08d8
+148	186	7586640270926678	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	a058eff1a4ab9ab8
+148	186	7586640270926678	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	a058eff1a4ab9ab8
+186	223	7586640271300714	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	d0bf7d93e795485
+186	223	7586640271300714	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	d0bf7d93e795485
+223	261	7586640271687032	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	b65677e367430ced
+223	261	7586640271687032	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	b65677e367430ced
+261	297	7586640272039970	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	1f296485261cd6fe
+261	297	7586640272039970	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	1f296485261cd6fe
+297	351	7586640272558916	CMakeFiles/freetype-populate-complete	6b46918aec86bff7
+297	351	7586640272558916	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	6b46918aec86bff7
+297	351	7586640272558916	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	6b46918aec86bff7
+297	351	7586640272558916	C:/Users/nesto/Dropbox/Trabajos Jose Ignacio/UniMary/Semester 4/CSC204/SFML-CSC-NEW/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	6b46918aec86bff7
